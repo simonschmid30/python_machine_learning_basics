@@ -4,3 +4,9 @@ __pycache__/
 
 # Temporary files of nbQA (pylint/black on notebooks)
 *_nbqa_ipynb.py
+
+# Authorised raw teaching data must stay local.
+/00_Data/private/
+
+# Rebuildable local E5 search vectors.
+/00_Data/nlp-search-cache/
